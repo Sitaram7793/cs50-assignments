@@ -1,4 +1,4 @@
-# cs50-assignments
+# CS50-assignments
 
 This repository contains CS50 Scratch assignments and mini-projects.
 
