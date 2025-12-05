@@ -2,6 +2,8 @@
 
 Bottle Shooter is an arcade-style reaction game where the player shoots randomly appearing bottles before they disappear. The game gradually increases difficulty and features an instruction screen, gameplay screen, and a game over screen with score summary.
 
+![alt text](game_start.png)
+
 ---
 
 ## 🕹 Game features
@@ -83,6 +85,5 @@ Open-source, MIT License.
 ---
 
 ## 📸 Screenshots / Preview
-![alt text](game_start.png)
 ![alt text](game_play.png)
 ![alt text](game_over.png)
